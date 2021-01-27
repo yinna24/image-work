@@ -11,6 +11,10 @@ wrong format. you can use Python to get these images ready for launch.
 
 the imageWork.py script uses the Python Imaging Library (PIL),
 loops through the images in the images folder,
+
 *rotates the image 90 degrees clockwise,
+
 *resizes the image from 192x192 to 128x128,
+
 *saves the image to a new folder (opt/icons) in .jpeg format.
+
